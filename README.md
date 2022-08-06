@@ -2,7 +2,7 @@
 ## This is my Portfolio
 
 
-![Screenshot (8)](https://user-images.githubusercontent.com/107381130/183253696-ec61e14a-7e07-41e4-8f1d-52592b5a5203.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/107381130/183253924-a157a09f-850d-459c-916b-49b82845520f.png)
 
 ## Technologies Used
 
