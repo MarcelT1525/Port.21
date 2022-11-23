@@ -1,16 +1,17 @@
 # Portfolio
-## This is my Portfolio
 
+This is my Portfolio project
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/107381130/183253924-a157a09f-850d-459c-916b-49b82845520f.png)
 
-## Technologies Used
 
-*HTML
-*CSS
-
+ Learn about HTML / CSS / Bootstrap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
+[Visit Demo Website](https://port21.marcelt1525.repl.co/)
+## Tech used
+* HTML
+* CSS
 ## Installation
-No need to install any software just open up the index.html
+No need to install anything, just open index.html.
+## How to use?
+Customize and create your own original portfolio. Take on various challenges such as changing colors, adding effects, and changing designs. Just include ABOUT, PROJECTS, and CONTACT information in your portfolio and don't get too complicated. Simple is the best.
 
-## How to use
-Use this portfolio to build yours by considering it as template

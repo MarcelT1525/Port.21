@@ -44,9 +44,12 @@ ABOUT
 }
 
 #about img {
-  border-radius: 50%;
-  width: 120px;
-  margin-bottom: 10px;
+    border-radius: 50%;
+    width: 149px;
+    margin-bottom: 10px;
+    height: 150px;
+    object-fit: cover;
+    object-position: 0px -69px;
 }
 
 #about .name {
