@@ -2,7 +2,7 @@
 
 This is my Portfolio project
 
-![Screenshot (8)](https://user-images.githubusercontent.com/107381130/183253924-a157a09f-850d-459c-916b-49b82845520f.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/port.sc.png)
 
 
  Learn about HTML / CSS / Bootstrap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
