@@ -2,8 +2,7 @@
 
 This is my Portfolio project
 
-![Screenshot (8)](https://user-images.githubusercontent.com/port.sc.png)
-
+![Screenshot (8)]("C:\Users\marce\Pictures\port.sc.png")
 
  Learn about HTML / CSS / Bootstrap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
 [Visit Demo Website](https://port21.marcelt1525.repl.co/)
